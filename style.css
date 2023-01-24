@@ -283,6 +283,18 @@ a:hover {
     padding-left: 0;
 }
 
+.text-center-page-one{
+    font-size: 2rem;
+}
+
+.text-center-page-two{
+    font-size: 2rem;
+}
+
+.text-center-page-three{
+    font-size: 2rem;
+}
+
 #bloc-1-hero h1 {
     font-size: 32px;
 }
