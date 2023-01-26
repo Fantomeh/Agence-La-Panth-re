@@ -751,6 +751,21 @@ h4 {
     color: #FFFFFF!important;
 }
 
+.black{
+    color: black!important;
+    font-weight: bold;
+}
+
+.container-contact-footer{
+    z-index: 1;
+    position: relative;
+}
+
+.text-title-end{
+    font-weight: bold;
+    font-size: 2rem;
+}
+
 .portfolio-thumb {
     margin-bottom: 24px;
 }
@@ -787,12 +802,12 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFFFFF !important;
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #232323!important;
 }
 
 .btn-atomic-tangerine:hover {
